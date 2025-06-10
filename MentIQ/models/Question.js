@@ -36,4 +36,4 @@ const questionSchema = new mongoose.Schema({
 questionSchema.index({ student: 1, createdAt: -1 });
 questionSchema.index({ status: 1, createdAt: -1 });
 
-module.exports = mongoose.model('Question', questionSchema); 
+module.exports = mongoose.model('Question', questionSchema);

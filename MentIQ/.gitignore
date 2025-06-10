@@ -1,0 +1,36 @@
+# Node
+node_modules
+.env
+
+# Logs
+logs
+*.log
+
+# macOS
+.DS_Store
+
+# npm
+npm-debug.log*
+
+# Yarn
+yarn-debug.log*
+.yarn-integrity
+
+# IDEs and other tools
+.vscode
+.idea
+.project
+.settings
+.buildpath
+
+# Runtime files
+*.pid
+*.sock
+
+# Database
+*.sqlite
+*.sqlite-journal
+/data/
+
+# Testing
+/coverage/

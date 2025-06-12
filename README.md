@@ -64,5 +64,5 @@ Contains the actual answer, and notes which mentor wrote it and which question i
 2.  A mentor logs in and sees all the student questions.
 3.  The mentor picks a question, writes an answer, and posts it. The app saves this answer, linking it to the mentor and the question.
 4.  The student can then go back to their question and see the mentor's answer.
-5.  Everyone can only change or delete their *own* content, ensuring privacy and security.
+5.  Everyone can only change or delete their *own* content, ensuring privacy and security .
 
